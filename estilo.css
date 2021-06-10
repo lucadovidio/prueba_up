@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Avenir® Next=swap');
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {background-color: #000000 ;
+	font-family: Avenir Next;
+}
+
+main{
+	width: 100%;
+	height: 750px;
+	background-color: #000000;
+	background-size: cover;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+header{
+	width: 100%;
+	height: 80px;
+	background-color:  #000000;
+
+}
+
+section{
+	width: 1024px;
+	height: 610px;
+	background-image: url(../imagenes/Fondo.png);
+}
+
+footer{
+	width: 100%;
+	height: 60px;
+	background-color:  #000000;
+}
+
+#logo{
+	width: 50%;
+	height: 80px;
+	background-color: #00a7b0;
+	float: left;
+}
+.logo{
+	margin-left: 15%;
+	margin-top: 4%;
+
+}
+
+#nav{
+	width: 50%;
+	height: 80px;
+	background-color: #00a7b0;
+	float: right;
+}
+
+.nav{
+	margin-left: 25%;
+	margin-top: 2%;
+}
+
+.nav li{
+	display: inline;
+	font-size: 25px;
+	float: left;
+	padding: 3%;
+	border-radius: 10px;
+	margin-right: 2%;
+	text-align: center;
+	color: #000000;
+	text-decoration: none;
+
+}
+.circulo{margin-top: 12%;
+	margin-right: 10%;
+	margin-left: 80%;
+
+}
+
+
+#blackmirror{
+	float: left;
+	width: 33%;
+	height: 60px;
+	background-color: #00a7b0; 
+	margin-left: (0,5%);
+
+}
+.blackmirror{
+margin-left: 20%;
+margin-top: 1%;
+margin-bottom: 0,25px;
+}
+
+#nombre{
+	width: 33%;
+	height: 60px;
+	background-color: #00a7b0;
+	float: left;
+}
+.nombre{
+	font-size: 15px;
+	margin-left: 45%;
+	margin-top: 5%;
+
+
+}
+
+
+#redes{
+	float: left;
+	width: 34%;
+	height: 60px;
+	background-color: #00a7b0;
+}
+
+#entreredes{
+	margin-top: 2%;
+	margin-left: 47%;
+}
+#sinopsis{
+	width: 100%;
+	height: 260px;
+	background-color: transparent;
+}
+.sinopsis{
+	margin-left: 50%;
+	margin-top: 2%;
+}
+
+#argumento{
+	width: 100%;
+	height: 300px;
+	background-color: #00a7b0;
+	margin-left: 10%;
+	margin-top: 2%;
+	border-radius: 10px;
+
+}
+.argumento{
+	margin-left: 2%;
+	margin-top: 2%;
+	margin-right: 2%;
+}
